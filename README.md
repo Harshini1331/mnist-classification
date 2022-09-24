@@ -134,7 +134,7 @@ print(x_single_prediction)
 <img width="434" alt="image" src="https://user-images.githubusercontent.com/75235554/191900133-261b185a-0e8e-4775-8eff-c78845fe172f.png">
 
 ### New Sample Data Prediction
-<img width="325" alt="image" src="https://user-images.githubusercontent.com/75235554/191900291-b9aebbe2-0f0f-4d5d-8614-7f46c96507cd.png">
+<img width="573" alt="image" src="https://user-images.githubusercontent.com/75235554/192078894-ade90ba4-3c7a-4742-95e0-e8efdd4c12f9.png">
 
 ## RESULT
 A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
