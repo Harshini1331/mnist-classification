@@ -1,4 +1,4 @@
-# Convolutional Deep Neural Network for Digit Classification
+# <p align="center">Convolutional Deep Neural Network for Digit Classification</p>
 
 ## AIM
 
